@@ -10,3 +10,5 @@ As an intern during the 2022 Stanford Institutes of Medicine Summer Research Pro
 # Microcontoller in Action
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/C3P7Ko32dtA/0.jpg)](https://www.youtube.com/watch?v=C3P7Ko32dtA)
+
+In this video, I demonstrate how the Adafruit Circuit Playground microcontoller will unlock your phone, message the first contact in your emergency contact list with an emergency message, and send your current location.
