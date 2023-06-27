@@ -7,8 +7,8 @@ As an intern at the 2022 [Stanford Institutes of Medicine Summer Research Progra
 
 ** **
 
-# Microcontoller in Action
+# Microcontroller in Action
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/C3P7Ko32dtA/0.jpg)](https://www.youtube.com/watch?v=C3P7Ko32dtA)
 
-In this video, I demonstrate how the Adafruit Circuit Playground microcontoller will unlock your phone, message the first contact in your emergency contact list with an emergency message, and send your current location.
+In this video, I demonstrate how the Adafruit Circuit Playground microcontoller unlocks your phone, messages the first contact in your emergency contact list with an emergency message, and sends your current location.
